@@ -1,0 +1,62 @@
+#profile__img {
+    border-radius: 30%;
+    width: 100px;
+    height: 140px;
+    margin: 10px 150px;
+}
+
+.body {
+    justify-content: center;
+    display: block;
+    margin: 100px 33%;
+    background-color: #d49e9b;
+    width: 400px;
+    height: 600px;
+    border-radius: 5% ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    padding: 10px 0;
+    width: 300px;
+    margin: 5px 50px;
+    border-radius: 5% white;
+    background-color: #5e5352;
+    opacity: 90%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    margin: 15px 130px;
+}
+
+p {
+    margin: 10px 150px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#links {
+    align-items: center;
+}
+
+#head {
+    margin: 10px 170px;
+}
+
+#twitter {
+    width: 400px;
+    margin: 10px 100px;
+}
+
+#descod {
+    width: 300px;
+    font-size: 12px;
+    color: #b34324;
+    margin: 0 50px;
+}
+
+#book__python {
+    margin-top: 0;
+}
