@@ -1,7 +1,7 @@
 #profile__img {
-    border-radius: 30%;
+    border-radius: 50%;
     width: 100px;
-    height: 140px;
+    height: 100px;
     margin: 10px 150px;
 }
 
@@ -13,7 +13,7 @@
     width: 400px;
     height: 600px;
     border-radius: 5% ;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 button{
@@ -23,13 +23,16 @@ button{
     border-radius: 5% white;
     background-color: #5e5352;
     opacity: 90%;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 img{
     margin: 15px 130px;
 }
 
+h1{
+    margin: 10px 30px;
+}
 p {
     margin: 10px 150px;
     justify-content: center;
@@ -48,6 +51,7 @@ p {
 #twitter {
     width: 400px;
     margin: 10px 100px;
+    color: #b34324;
 }
 
 #descod {

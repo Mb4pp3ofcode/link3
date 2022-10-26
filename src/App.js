@@ -8,12 +8,13 @@ function App() {
     <div className="body">
       <div className="profile">
       <img src="/profile.JPG" id='profile__img'/>
+      <h1>Oluleke Olurankinse</h1>
       <b><p id='twitter'>Twitter: LekeTweets </p></b>
+
       {/* <p id='slack'>Slack: Oluleke Olurankinse </p> */}
       <hr />
       </div>
       <div id='links'>
-        <b><p id="head">LINKS</p></b>
         <a href="https://training.zuri.team"><button id="btn__zuri">ZURI</button></a>
         <br />
         <a href="https://books.zuri.team"><button id="books">BOOKS</button></a>
@@ -26,6 +27,7 @@ function App() {
         <a href="https://books.zuri.team/design-rules"><button id="book__design">DESIGN BOOKS</button></a>
       </div>
       <hr />
+      
     </div>
   )
 }
